@@ -14,7 +14,7 @@
 	</repositories>
   
 # 如何引用
-      	<dependency>
+	<dependency>
 	        <groupId>com.github.haifeng</groupId>
 	        <artifactId>serve-core-common-response</artifactId>
 		<version>1.0</version>
