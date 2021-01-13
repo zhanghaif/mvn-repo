@@ -1,7 +1,6 @@
 # mvn-repo
 
-#在pom.xml中添加
-
+# 在pom.xml中添加
   <repositories>
 	    <repository>
 	        <id>mvn-repo</id>
@@ -14,9 +13,9 @@
 	    </repository>
 	</repositories>
   
-  #如何引用
-      <dependency>
+# 如何引用
+      	<dependency>
 	        <groupId>com.github.haifeng</groupId>
 	        <artifactId>serve-core-common-response</artifactId>
-			    <version>1.0</version>
-	    </dependency>
+		<version>1.0</version>
+	</dependency>
