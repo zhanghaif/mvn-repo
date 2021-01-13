@@ -1,7 +1,7 @@
 # mvn-repo
 
 # 在pom.xml中添加
-  <repositories>
+  	<repositories>
 	    <repository>
 	        <id>mvn-repo</id>
 	        <!-- https://raw.github.com/用户名/仓库名/分支名 -->
