@@ -4,7 +4,6 @@
   	<repositories>
 	    <repository>
 	        <id>mvn-repo</id>
-	        <!-- https://raw.github.com/用户名/仓库名/分支名 -->
 	        <url>https://raw.github.com/zhanghaif/mvn-repo/master</url>
 	        <snapshots>
 	            <enabled>true</enabled>
